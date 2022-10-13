@@ -1,0 +1,18 @@
+.child {
+    background-color: aqua;
+}
+
+.newColor {
+    background-color: blueviolet;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 960px;
+    height: 960px;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    flex-wrap: wrap;
+}
