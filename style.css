@@ -23,3 +23,34 @@ body {
     flex-wrap: wrap;
     margin-bottom: 10px;
 }
+
+.level1 {
+    background-color: rgb(0, 0, 0, 0.1);
+}
+.level2 {
+    background-color: rgb(0, 0, 0, 0.2);
+}
+.level3 {
+    background-color: rgb(0, 0, 0, 0.3);
+}
+.level4 {
+    background-color: rgb(0, 0, 0, 0.4);
+}
+.level5 {
+    background-color: rgb(0, 0, 0, 0.5);
+}
+.level6 {
+    background-color: rgb(0, 0, 0, 0.6);
+}
+.level7 {
+    background-color: rgb(0, 0, 0, 0.7);
+}
+.level8 {
+    background-color: rgb(0, 0, 0, 0.8);
+}
+.level9 {
+    background-color: rgb(0, 0, 0, 0.9);
+}
+.level10 {
+    background-color: rgb(0, 0, 0, 1);
+}
